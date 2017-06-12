@@ -1,19 +1,10 @@
 # php-to-clojure
 
-FIXME
+Example code for a blog post demonstrating moving a simple PHP/Zend site to Clojure/Compojure. To read the article visit:
 
-## Prerequisites
+[http://blog.bradlucas.com/posts/2017-06-11-php-to-clojure/](http://blog.bradlucas.com/posts/2017-06-11-php-to-clojure/)
 
-You will need [Leiningen][] 2.0.0 or above installed.
-
-[leiningen]: https://github.com/technomancy/leiningen
-
-## Running
-
-To start a web server for the application, run:
-
-    lein ring server
 
 ## License
 
-Copyright © 2017 FIXME
+Copyright © 2017 Brad Lucas
